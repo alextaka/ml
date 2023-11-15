@@ -8,3 +8,8 @@ Colab: https://colab.research.google.com/?utm_source=scs-index
 
 Karpathy: https://github.com/karpathy/ng-video-lecture,
 https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+
+Non technical reading:
+Amazon AI courses
+https://www.zdnet.com/article/unlock-ai-secrets-transform-your-skills-with-amazons-free-ai-learning/
