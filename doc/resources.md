@@ -1,3 +1,4 @@
+Deep Learning Book: https://www.deeplearningbook.org/
 LLama architecture: https://www.youtube.com/watch?v=Mn_9W1nCFLo&t=1s
 
 LLama tuning: https://github.com/GoogleCloudPlatform/ai-on-gke/tree/main/tutorials/finetuning-llama-7b-on-l4
