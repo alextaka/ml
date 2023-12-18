@@ -18,6 +18,7 @@ Amazon AI courses
 https://www.zdnet.com/article/unlock-ai-secrets-transform-your-skills-with-amazons-free-ai-learning/
 
 Coursera:
+
 https://www.coursera.org/learn/machine-learning/home/,
 
 https://www.coursera.org/programs/google-specialization/specializations/machine-learning-introduction
